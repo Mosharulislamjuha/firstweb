@@ -2,6 +2,27 @@ body{
     font-family: 'Roboto', sans-serif;
     margin: 0;
 }
+li{
+    list-style-type: none;
+    margin:2% 10%;
+    font size: 5%;
+}
+a{
+    text-decoration: none; 
+    padding: 10%;
+    color: black;
+   
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.main{
+    width: 100%;
+    background-color: thistle;
+}
+ul{
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
 h1{
     font-size: 40px;
     
@@ -86,6 +107,28 @@ h1{
     width: 85%;
     border-radius: 25px;
 }
+.auto{
+    margin-bottom: 10%;
+}
+.skil{
+
+    width: 80%;
+    margin: auto;
+    box-shadow: 1px 1px 1px 1px rgb(99, 89, 71);
+    bottom:10%;
+    text-align: center;
+    margin: auto;
+    border-radius: 30px;
+    
+    
+
+}
+.skil1{
+
+    margin: auto;
+    text-align: center;
+    
+}
 
 
  #foot{
@@ -100,5 +143,6 @@ h1{
     font-size: 26px;
     color: white;
     padding-bottom: 30px;
+    padding-top: 10px;
     
 }
