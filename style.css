@@ -19,13 +19,17 @@ h1{
     text-align:justify ;
 
 }
+.ddiv1 p{
+    padding: 5px 0px 45px 0px;
+    font-size: 15px;
+}
 .ddiv1 img{
     width: 90%;
 
 }
 .link{
     text-decoration: none;
-    background-image: linear-gradient(rgb(192, 255, 46), rgb(68, 90, 42));
+    background-image: linear-gradient(rgb(117, 148, 45), rgb(68, 90, 42));
     padding: 10px 40px;
     border-radius: 50px;
     color: white;
@@ -42,21 +46,26 @@ h1{
 .link1{
     text-decoration: none;
     background-image: linear-gradient(rgb(180, 196, 93), rgb(104, 104, 80));
-    padding: 10px 40px;
+    padding: 10px 20px;
     border-radius: 50px;
     color: white;
     font-weight: 700;
 }
-.sec3 h2{
-    text-align: center;
-    
 
+#recipe1{
+
+    width: 90%;
+    margin: auto;
+    margin-bottom: 100px
 }
-.sec3 p{
+#title{
+    width: 50%;
+    margin: auto;
     text-align: center;
-    width: 600px;
-    margin: 0 auto;
+    padding-bottom: 30px;
 }
+
+
 .long{
     
     box-shadow:10px 10px 40px thistle;
@@ -72,23 +81,24 @@ h1{
     
     
 }
-.style{
-    width: 100%;
-    border-radius: 10px;
+#recipe1 .long img{
+    padding: 10px;
+    width: 85%;
+    border-radius: 25px;
 }
- .foot{
-    box-sizing: border-box;
-    margin: 0; 
-    background: black;
-    height: auto;
-    width: 100%;
-    padding-top: 40px;
-    color: white;
-    text-align: center;
+
+
+ #foot{
+     background-color: black;
+     text-align: center;
+    
    
     
     
 }
-
-
-
+.foot1 {
+    font-size: 26px;
+    color: white;
+    padding-bottom: 30px;
+    
+}
