@@ -21,6 +21,7 @@ h1{
 }
 .ddiv1 img{
     width: 90%;
+
 }
 .link{
     text-decoration: none;
@@ -46,9 +47,48 @@ h1{
     color: white;
     font-weight: 700;
 }
-.sec3 {
+.sec3 h2{
     text-align: center;
-    width: 80%;
+    
+
 }
+.sec3 p{
+    text-align: center;
+    width: 600px;
+    margin: 0 auto;
+}
+.long{
+    
+    box-shadow:10px 10px 40px thistle;
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 2%;
+    padding-right: 2%;
+    border-radius: 10px;
+    text-align: justify;
+    border-radius: 10px;
+    
+    
+    
+}
+.style{
+    width: 100%;
+    border-radius: 10px;
+}
+ .foot{
+    box-sizing: border-box;
+    margin: 0; 
+    background: black;
+    height: auto;
+    width: 100%;
+    padding-top: 40px;
+    color: white;
+    text-align: center;
+   
+    
+    
+}
+
 
 
